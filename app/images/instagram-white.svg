@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="777" y="3954" width="33" height="33" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Instagram_logo_designed_by_Freepik_from_Flaticon.com_copy" data-name="Instagram logo designed by Freepik from Flaticon.com copy" class="cls-1" d="M802.386,3962.88a1.272,1.272,0,0,1-1.27-1.27v-2.53a1.272,1.272,0,0,1,1.27-1.27h2.539a1.272,1.272,0,0,1,1.269,1.27v2.53a1.272,1.272,0,0,1-1.269,1.27h-2.539Zm-8.886,2.78a4.762,4.762,0,0,0-2.5.72,2.148,2.148,0,0,1,.716-0.12,2.455,2.455,0,1,1-2.453,2.45,2.348,2.348,0,0,1,.119-0.71,4.766,4.766,0,0,0-.716,2.5A4.841,4.841,0,1,0,793.5,3965.66Zm0-2.78a7.62,7.62,0,1,1-7.617,7.62,7.618,7.618,0,0,1,7.617-7.62m0-2.54a10.16,10.16,0,1,0,10.155,10.16A10.17,10.17,0,0,0,793.5,3960.34Zm10.314-6.34H783.186a6.188,6.188,0,0,0-6.188,6.19v20.62a6.188,6.188,0,0,0,6.188,6.19h20.628a6.187,6.187,0,0,0,6.188-6.19v-20.62A6.187,6.187,0,0,0,803.814,3954Zm3.65,11.42h-8.3a7.617,7.617,0,1,1-11.33,0h-8.3v-5.23a3.65,3.65,0,0,1,3.65-3.65h20.628a3.649,3.649,0,0,1,3.65,3.65v5.23Z" transform="translate(-777 -3954)"/>
+</svg>

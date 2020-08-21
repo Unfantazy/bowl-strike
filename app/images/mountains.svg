@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="11" viewBox="0 0 13 11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1185" y="3030" width="13" height="11" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Picture_designed_by_Icomoon_from_Flaticon.com" data-name="Picture designed by Icomoon from Flaticon.com" class="cls-1" d="M1185,3030v11h13v-11h-13Zm12.19,10.15h-11.38v-9.3h11.38v9.3Zm-3.25-7.19a1.216,1.216,0,1,0,1.22-1.27A1.243,1.243,0,0,0,1193.94,3032.96Zm2.43,6.35h-9.74l2.43-6.77,3.25,4.23,1.63-1.27Z" transform="translate(-1185 -3030)"/>
+</svg>

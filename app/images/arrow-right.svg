@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5" height="8" viewBox="0 0 5 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1006" y="5352" width="5" height="8" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Keyboard_right_arrow_button_designed_by_Google_from_Flaticon.com" data-name="Keyboard right arrow button designed by Google from Flaticon.com" class="cls-1" d="M1006.95,5352l-0.95.93,3.11,3.07-3.11,3.07,0.95,0.93,4.05-4Z" transform="translate(-1006 -5352)"/>
+</svg>

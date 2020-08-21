@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="7" viewBox="0 0 10 7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="398" y="5470" width="10" height="7" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#bfc9ff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Close_envelope_designed_by_Yannick_from_Flaticon.com" data-name="Close envelope designed by Yannick from Flaticon.com" class="cls-1" d="M401.763,5473.84l-3.537,2.97a0.716,0.716,0,0,0,.493.19h8.562a0.717,0.717,0,0,0,.492-0.19l-3.536-2.97L403,5474.9Zm5.518-3.84h-8.562a0.717,0.717,0,0,0-.492.19L403,5474.2l4.774-4.01A0.714,0.714,0,0,0,407.281,5470ZM398,5476.43l3.452-2.87L398,5470.61v5.82Zm10,0v-5.82l-3.452,2.95Z" transform="translate(-398 -5470)"/>
+</svg>
