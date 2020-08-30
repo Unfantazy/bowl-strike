@@ -703,12 +703,7 @@
     width: 320px;
     height: 246px;
     object-fit: cover;
-
-
   }
-
-
-
 }
 
 .instagram-feed__images--hover {
@@ -927,7 +922,7 @@
 
 .footer {
   background-image: url(../images/footer/footer-bg.jpg);
-  width: 100%;
+  max-width: 100%;
   min-height: 565px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -940,11 +935,13 @@
   justify-content: space-between;
   color: #fff;
   padding-top: 115px;
+  flex-wrap: wrap;
 }
 
 .footer__item {
   max-width: 270px;
   width: 100%;
+
 
   // &+.footer__item {
   //   margin-left: 30px;

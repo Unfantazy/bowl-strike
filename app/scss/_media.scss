@@ -22,6 +22,16 @@
   }
 }
 
+@media(max-width: 1180px) {
+  .news__final-day {
+    display: none;
+  }
+
+  .news__photos-articles {
+    margin: 0 auto;
+  }
+}
+
 @media(max-width: 1115px) {
   .best-offers__inner {
     display: block;
@@ -110,6 +120,14 @@
 
   .join-us__item {
     min-width: 100%;
+  }
+}
+
+@media(max-width: 776px) {
+  .news__photos__article {
+    max-width: 390px;
+    width: 100%;
+    margin: 10px auto;
   }
 }
 
@@ -221,6 +239,13 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     overflow: hidden;
+  }
+
+  .gallery__slider-wrapper {
+    img {
+      width: 320px;
+      height: 233px;
+    }
   }
 }
 
@@ -347,6 +372,57 @@
   .should-know__actions-wrapper {
     min-height: 500px;
   }
+
+  .instagram-feed__title {
+    display: none;
+  }
+
+  .instagram-feed__follow-link {
+    margin: 0 auto;
+  }
+}
+
+@media(max-width: 400px) {
+  .news__photos__article {
+    max-width: 300px;
+    height: 200px;
+
+    img {
+      width: 300px;
+      height: 200px;
+    }
+  }
+
+  .news__photos__article--social {
+    // max-width: 200px;
+    display: none;
+    height: 200px;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .news__photos__article--social .article__title {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .news__photos__article--social .article__by {
+    margin-bottom: 20px;
+    font-size: 13px;
+  }
+
+  .news__photos__article--social .article__social-icons {
+    margin-bottom: 15px;
+
+    svg+svg {
+      margin-left: 5px;
+    }
+  }
+
+  .news__photos__article--social .article__social-bottom {
+    height: 50px;
+    padding: 10px;
+  }
 }
 
 @media(max-width: 380px) {
@@ -364,6 +440,8 @@
   .feedback__person {
     max-width: 110px;
   }
+
+
 }
 
 

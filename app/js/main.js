@@ -42,6 +42,8 @@ $(function () {
     appendArrows: ".feedback__review",
 
   });
+
+
   $('.slick-prev').on('click', function () {
     $('.feedback__slider').slick("slickPrev");
   });
