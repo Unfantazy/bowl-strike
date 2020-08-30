@@ -907,7 +907,8 @@
       background-image: url(../images/svg/separator.svg);
       top: 0;
       height: 2px;
-      width: 295px;
+      max-width: 295px;
+      width: 100%;
       z-index: 10;
       left: 35px;
     }
@@ -1118,15 +1119,15 @@
   align-items: center;
   position: relative;
 
-  &::before {
-    content: "";
-    background-image: url(../images/separator.png);
-    position: absolute;
-    height: 2px;
-    width: 100%;
-    z-index: 100;
-    left: 120px;
-  }
+  // &::before {
+  //   content: "";
+  //   background-image: url(../images/separator.png);
+  //   position: absolute;
+  //   height: 2px;
+  //   width: 100%;
+  //   z-index: 100;
+  //   left: 120px;
+  // }
 }
 
 .footer__copyright-phrase {
